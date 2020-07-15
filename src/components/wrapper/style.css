@@ -1,0 +1,4 @@
+.wrapper {
+  min-height: calc(100vh - 65px);
+  background-color: rgba(128, 128, 128, 0.342);
+}
